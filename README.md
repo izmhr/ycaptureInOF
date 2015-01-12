@@ -18,7 +18,7 @@
 
 ### 手順(1) 連携に使う node.js アプリのセットアップ
 
-[izmhr/browserAndOF]()
+[izmhr/browserAndOF](https://github.com/izmhr/browserAndOF)
 
 上記リポジトリの README にしたがってセットアップして下さい
 
