@@ -2,8 +2,8 @@
 
 詳細は下記ふたつのエントリーで紹介しております
 
-- [ycapture で OpenCV での処理結果を Windows のビデオソースとしてブラウザに流し込む]()
-- [html から node.js を介して oF の画像処理をコントロールし、ブラウザ上で閲覧する]()
+- [ycapture で OpenCV での処理結果を Windows のビデオソースとしてブラウザに流し込む](http://izmiz.hateblo.jp/entry/2015/01/12/220133)
+- [html から node.js を介して oF の画像処理をコントロールし、ブラウザ上で閲覧する](http://izmiz.hateblo.jp/entry/2015/01/13/224700)
 
 ## セットアップ
 
@@ -39,7 +39,7 @@
 下記2記事を参考にしてください
 
 - [ycapture(わいきゃぷちゃ) 公式](http://yzwlab.net/ycapture/)
-- [ycapture で OpenCV での処理結果を Windows のビデオソースとしてブラウザに流し込む]()
+- [ycapture で OpenCV での処理結果を Windows のビデオソースとしてブラウザに流し込む](http://izmiz.hateblo.jp/entry/2015/01/12/220133)
 
 #### OSCポートの設定
 
